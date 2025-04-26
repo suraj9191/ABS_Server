@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vtJGleJJTk=",
+  "success": true,
+  "projectFilePath": "D:\\VScode\\ABS_Server\\ABS_Server\\ABS_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

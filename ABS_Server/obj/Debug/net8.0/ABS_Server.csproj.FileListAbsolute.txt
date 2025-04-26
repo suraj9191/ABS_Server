@@ -1,0 +1,17 @@
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.AssemblyInfoInputs.cache
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.AssemblyInfo.cs
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.csproj.CoreCompileInputs.cache
+D:\VScode\ABS_Server\ABS_Server\bin\Debug\net8.0\ABS_Server.exe
+D:\VScode\ABS_Server\ABS_Server\bin\Debug\net8.0\ABS_Server.deps.json
+D:\VScode\ABS_Server\ABS_Server\bin\Debug\net8.0\ABS_Server.runtimeconfig.json
+D:\VScode\ABS_Server\ABS_Server\bin\Debug\net8.0\ABS_Server.dll
+D:\VScode\ABS_Server\ABS_Server\bin\Debug\net8.0\ABS_Server.pdb
+D:\VScode\ABS_Server\ABS_Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.csproj.AssemblyReference.cache
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.csproj.Up2Date
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.dll
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\refint\ABS_Server.dll
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.pdb
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ABS_Server.genruntimeconfig.cache
+D:\VScode\ABS_Server\ABS_Server\obj\Debug\net8.0\ref\ABS_Server.dll
